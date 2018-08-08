@@ -10,7 +10,7 @@
 <body>
 	<center>
 	<h1>
-	POC3_Demo_DockerSwarm_New
+	POC3_Demo_DockerSwarm_2
 	</h1>
 	</center>
 	<div style="width: 102%;
